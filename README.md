@@ -7,3 +7,5 @@ To ensure safe development and testing, the entire circuit was first simulated o
 One of the standout features of this project is its scalability and modularity. While the current version uses password input, the system architecture is flexible enough to integrate more advanced features in the future. Potential upgrades include GSM module alerts, EEPROM-based password change capability, Bluetooth or Wi-Fi access, and biometric authentication using fingerprint or facial recognition. This makes the project not just a standalone academic exercise, but a strong foundation for building real-world smart security systems.
 
 In summary, this project is a powerful demonstration of how affordable hardware, open-source tools, and basic programming can be combined to build meaningful, practical systems. Whether you’re a student working on an academic submission, a hobbyist exploring Arduino projects, or someone prototyping a smart home setup, the Secure Door Lock System offers a solid base to learn and innovate in the field of embedded security.
+
+Link : https://www.tinkercad.com/things/8EAblhOrawb-secure-door-lock-system
